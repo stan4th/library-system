@@ -1,0 +1,5 @@
+\\srv124\students$\296965\my documents\visual studio 2010\Projects\Libary\Libary\bin\Debug\Libary.exe
+\\srv124\students$\296965\my documents\visual studio 2010\Projects\Libary\Libary\bin\Debug\Libary.pdb
+\\srv124\students$\296965\my documents\visual studio 2010\Projects\Libary\Libary\obj\x86\Debug\Libary.exe
+\\srv124\students$\296965\my documents\visual studio 2010\Projects\Libary\Libary\obj\x86\Debug\Libary.pdb
+\\srv124\students$\296965\My Documents\Visual Studio 2010\Projects\Libary\Libary\obj\x86\Debug\ResolveAssemblyReference.cache
